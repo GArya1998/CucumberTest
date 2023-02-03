@@ -1,0 +1,24 @@
+git commands added 
+git config --> to set the author name and the email address 
+user.email 
+user.name
+ls -ltr __ check the files available in the project 
+ls -ltr
+
+git init     : to start a new repository
+
+git add     : adds a file to the existing area
+git add . 
+
+git commit -m "test data success"
+
+git remote add origin 
+
+git push   : the command send the branch commints to your remote repository
+
+git pull     : the command fetches and merges changes on the remote server to your working directory 
+git pull - u 
+
+git clone  : to obtain a repository from an existing URL / PROJECT
+git branch : list all the local branches in the current repository 
+
